@@ -37,6 +37,25 @@ A menu-driven Student Management System developed using Python and SQLite. It su
 ```bash
 python student_oop.py
 ```
+## Main Menu
+
+![Main Menu](menu.png)
+
+## View Students
+
+![View Students](view_students.png)
+
+## Search Student
+
+![Search Student](search_students.png)
+
+## Course-wise Count
+
+![Course Count](course_count.png)
+
+## SQLite Database
+
+![Database](students_database.png)
 
 ## Author
 
