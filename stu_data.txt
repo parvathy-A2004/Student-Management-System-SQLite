@@ -1,0 +1,4 @@
+1,Krishna,BCA
+2,Mary,MCA
+3,Sivani,Bsc physics
+4,Manasa,Bsc Botony
